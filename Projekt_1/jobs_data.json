@@ -1,0 +1,3226 @@
+[
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/senior-data-engineer-warszawa-lucka-15,oferta,1003245522",
+        "Pozycja": "Senior Data Engineer",
+        "Firma": "P&P Solutions Sp. z o.o.",
+        "Min salary": "200,00",
+        "Max salary": null,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Pandas",
+            "Pyspark",
+            "Numpy",
+            "SQL",
+            "Git",
+            "PowerBI",
+            "Tableau",
+            "Azure SQL"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 1
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/datastage-developer-warszawa,oferta,1003183952",
+        "Pozycja": "DataStage Developer",
+        "Firma": "Novaris Sp. z o.o.",
+        "Min salary": 20910,
+        "Max salary": 28290,
+        "Currency": "PLN",
+        "Skills": [
+            "PL/SQL",
+            "Oracle"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 2
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/analytics-engineer-warszawa,oferta,1003229194",
+        "Pozycja": "Analytics Engineer",
+        "Firma": "Booksy International Sp. z o.o.",
+        "Min salary": 12000,
+        "Max salary": 15500,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "OLAP",
+            "Data Warehouse"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 3
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/etl-ipc-developer-warszawa,oferta,1003223789",
+        "Pozycja": "ETL/IPC Developer",
+        "Firma": "7N Sp. z o.o.",
+        "Min salary": 26863,
+        "Max salary": 28930,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "PL/SQL",
+            "Oracle",
+            "Informatica PowerCenter"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": " Senior",
+        "Id": 4
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-engineer-with-python-warszawa-krancowa-5,oferta,1003237137",
+        "Pozycja": "Data Engineer with Python",
+        "Firma": "CodiLime Sp. z o.o.",
+        "Min salary": 20295,
+        "Max salary": 33210,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "PostgreSQL",
+            "Snowflake Data Cloud",
+            "Apache Airflow",
+            "Apache Spark",
+            "AWS",
+            "Git"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 5
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-engineer-etl-sql-krakow,oferta,1003242901",
+        "Pozycja": "Data Engineer ETL, SQL",
+        "Firma": "Fairfield Consultancy Services Ltd",
+        "Min salary": "175,00",
+        "Max salary": null,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Oracle",
+            "Python"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "hybrid work",
+        "Id": 6
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/cobol-developer-warszawa,oferta,1003222123",
+        "Pozycja": "COBOL Developer",
+        "Firma": "SYSTEM VERIFICATION POLAND sp. z o.o.",
+        "Min salary": 41328,
+        "Max salary": 45461,
+        "Currency": "PLN",
+        "Skills": [
+            "COBOL",
+            "IMS",
+            "DB2",
+            "Changeman",
+            "z/OS Operating System (Aqua)"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": " Senior",
+        "Id": 7
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-engineer-warszawa,oferta,1003214838",
+        "Pozycja": "Data Engineer",
+        "Firma": "Cyclad",
+        "Min salary": 12300,
+        "Max salary": 27060,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "SQL"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Junior",
+        "Id": 8
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/junior-data-engineer-warszawa-lucka-15,oferta,1003245520",
+        "Pozycja": "Junior Data Engineer",
+        "Firma": "P&P Solutions Sp. z o.o.",
+        "Min salary": "140,00",
+        "Max salary": null,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Pandas",
+            "Pyspark",
+            "Numpy",
+            "SQL",
+            "Git",
+            "PowerBI",
+            "Tableau"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "mÅodszy specjalista (Junior)",
+        "Id": 9
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/software-engineer-ai-krakow-stanislawa-zolkiewskiego-17b,oferta,1003197395",
+        "Pozycja": "Software Engineer (AI)",
+        "Firma": "Medius Poland Sp. z o.o",
+        "Min salary": 15000,
+        "Max salary": 21000,
+        "Currency": "PLN",
+        "Skills": [
+            "C#",
+            "Python"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": " Junior",
+        "Id": 10
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/big-data-developer-warszawa-skierniewicka-10a,oferta,1003213267",
+        "Pozycja": "Big Data Developer",
+        "Firma": "CORE3 Sp. z o.o.",
+        "Min salary": 10000,
+        "Max salary": 16000,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "PL/SQL",
+            "T-SQL",
+            "PostgreSQL"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 11
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/moody-s-regulatory-reporting-technical-liquidity-risk-krakow,oferta,1003220472",
+        "Pozycja": "Moodyâs Regulatory Reporting Technical â Liquidity Risk",
+        "Firma": "Fusion Practices",
+        "Min salary": 15000,
+        "Max salary": 27000,
+        "Currency": "PLN",
+        "Skills": [
+            "Oracle",
+            "SQL",
+            "PL/SQL",
+            "COREP",
+            "Regulatory reporting",
+            "Liquidity risk",
+            "Moody's regulatory reporting"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 12
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/junior-data-analyst-warszawa,oferta,1003205953",
+        "Pozycja": "Junior Data Analyst",
+        "Firma": "DevsData LLC",
+        "Min salary": 13330,
+        "Max salary": 16570,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "SQL",
+            "Snowflake Data Cloud",
+            "Sigma",
+            "Microsoft Excel"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Junior",
+        "Id": 13
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/senior-data-engineer-krakow-zablocie-43a,oferta,1003223607",
+        "Pozycja": "Senior Data Engineer",
+        "Firma": "J-LABS sp. z o.o.",
+        "Min salary": 37195,
+        "Max salary": 41328,
+        "Currency": "PLN",
+        "Skills": [
+            "Java",
+            "Python",
+            "SQL",
+            "Ansible",
+            "Jenkins",
+            "Github",
+            "Puppet",
+            "Chef",
+            "Terraform"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 14
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/oracle-database-administrator-warszawa-plac-konesera-12,oferta,1003220651",
+        "Pozycja": "Oracle Database Administrator",
+        "Firma": "Raiffeisen Bank International AG (SpÃ³Åka Akcyjna) OddziaÅ w Polsce",
+        "Min salary": 18500,
+        "Max salary": 21600,
+        "Currency": "PLN",
+        "Skills": [
+            "Oracle",
+            "PL/SQL",
+            "Linux",
+            "Windows Server"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 15
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-analyst-low-latency-trading-krakow-kupa-5,oferta,1003201533",
+        "Pozycja": "Data Analyst â Low-latency Trading",
+        "Firma": "MKM Consulting Sp. z o.o.",
+        "Min salary": 10000,
+        "Max salary": 15000,
+        "Currency": "PLN",
+        "Skills": [
+            "Python"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 16
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/senior-data-engineer-gcp-warszawa-pulawska-39,oferta,1003188189",
+        "Pozycja": "Senior Data Engineer (GCP)",
+        "Firma": "GETINDATA POLAND sp. z o.o.",
+        "Min salary": 33062,
+        "Max salary": 41328,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "SQL",
+            "Google Cloud Platform",
+            "BigQuery",
+            "Airflow",
+            "VCS"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 17
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/senior-data-analyst-krakow,oferta,1003240801",
+        "Pozycja": "Senior Data Analyst",
+        "Firma": "INFOGAIN TECHNOLOGIES SPÃÅKA Z OGRANICZONÄ ODPOWIEDZIALNOÅCIÄ",
+        "Min salary": 26863,
+        "Max salary": 33062,
+        "Currency": "PLN",
+        "Skills": [],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 18
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/big-data-engineer-krakow,oferta,1003211325",
+        "Pozycja": "Big Data Engineer",
+        "Firma": "Mindbox S.A.",
+        "Min salary": 34440,
+        "Max salary": 40590,
+        "Currency": "PLN",
+        "Skills": [
+            "Jenkins",
+            "Ansible",
+            "Java",
+            "Groovy",
+            "Python",
+            "Scala",
+            "Spring boot",
+            "Spring Batch",
+            "Spring Cloud",
+            "Spring Cloud Gateway",
+            "Eureka",
+            "Apache Airflow"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 19
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-scientist-wroclaw-wagonowa-2d,oferta,1003235311",
+        "Pozycja": "Data Scientist",
+        "Firma": "Zone IT Sp. z o.o.",
+        "Min salary": 17000,
+        "Max salary": 28000,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Machine Learning"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 20
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/senior-data-engineer-warszawa,oferta,1003188146",
+        "Pozycja": "Senior Data Engineer",
+        "Firma": "EndySoft",
+        "Min salary": 20910,
+        "Max salary": 27060,
+        "Currency": "PLN",
+        "Skills": [
+            "Snowflake Data Cloud",
+            "SQL",
+            "Google Cloud Platform",
+            "Git",
+            "Jira",
+            "Confluence",
+            "AWS"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 21
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/lead-data-engineer-aws-wroclaw,oferta,1003183646",
+        "Pozycja": "Lead Data Engineer (AWS)",
+        "Firma": "Scalo Sp. z o.o.",
+        "Min salary": 35129,
+        "Max salary": 39262,
+        "Currency": "PLN",
+        "Skills": [
+            "AWS",
+            "Python",
+            "DynamoDB"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 22
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-engineer-with-aws-warszawa-encyklopedyczna-2a,oferta,1003220294",
+        "Pozycja": "Data Engineer (with AWS)",
+        "Firma": "JellyTech",
+        "Min salary": 22140,
+        "Max salary": 25830,
+        "Currency": "PLN",
+        "Skills": [
+            "Apache Airflow",
+            "Kafka",
+            "AWS",
+            "ETL",
+            "Python",
+            "SQL",
+            "noSQL",
+            "DWH"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 23
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/big-data-infrastructure-engineer-gdynia-luzycka-8c,oferta,1003225849",
+        "Pozycja": "Big Data Infrastructure Engineer",
+        "Firma": "Jit Team sp. z o.o.",
+        "Min salary": 21033,
+        "Max salary": 30996,
+        "Currency": "PLN",
+        "Skills": [
+            "Linux",
+            "Bash",
+            "AAP",
+            "Azure",
+            "AWS",
+            "Python",
+            "Hadoop"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 24
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-engineer-warszawa-pulawska-2,oferta,1003214474",
+        "Pozycja": "Data Engineer",
+        "Firma": "SQUARE ONE RESOURCES sp. z o.o.",
+        "Min salary": 26863,
+        "Max salary": 35129,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "AWS",
+            "Google Cloud Platform",
+            "Microsoft Azure",
+            "PySpark"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 25
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/software-development-engineer-ii-data-fulfillment-krakow-przy-rondzie-4,oferta,1003234736",
+        "Pozycja": "Software Development Engineer II - Data (Fulfillment)",
+        "Firma": "Tesco Technology",
+        "Min salary": 17000,
+        "Max salary": 25000,
+        "Currency": "PLN",
+        "Skills": [
+            "Hadoop",
+            "Scala",
+            "Spark"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 26
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/sql-specialist-wroclaw-wagonowa-2d,oferta,1003235310",
+        "Pozycja": "SQL Specialist",
+        "Firma": "Zone IT Sp. z o.o.",
+        "Min salary": 9000,
+        "Max salary": 14000,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Java"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 27
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-analyst-us-time-gdansk-aleja-grunwaldzka-472b,oferta,1003191245",
+        "Pozycja": "Data Analyst (US time)",
+        "Firma": "Acxiom Global Service Center Polska sp. z o. o",
+        "Min salary": 5000,
+        "Max salary": 9500,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Microsoft Excel"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 28
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/software-development-engineer-iii-data-fulfillment-krakow-przy-rondzie-4,oferta,1003205783",
+        "Pozycja": "Software Development Engineer III - Data (Fulfillment)",
+        "Firma": "Tesco Technology",
+        "Min salary": 22000,
+        "Max salary": 33000,
+        "Currency": "PLN",
+        "Skills": [
+            "Hadoop",
+            "Scala",
+            "Spark"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 29
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/software-development-engineer-ii-data-engineering-forecasting-krakow-przy-rondzie-4,oferta,1003240781",
+        "Pozycja": "Software Development Engineer II - Data Engineering (Forecasting)",
+        "Firma": "Tesco Technology",
+        "Min salary": 17000,
+        "Max salary": 25000,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Hadoop",
+            "Airflow",
+            "Hbase",
+            "Hive",
+            "GitHub",
+            "Zendesk",
+            "Jira"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 30
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/migration-and-development-analyst-warszawa-aleje-jerozolimskie-125,oferta,1003214486",
+        "Pozycja": "Migration and Development Analyst",
+        "Firma": "ITFS sp. z o.o.",
+        "Min salary": 22730,
+        "Max salary": 28930,
+        "Currency": "PLN",
+        "Skills": [
+            "VBA",
+            "Excel",
+            "MS Access",
+            "SQL"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 31
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/software-development-engineer-ii-data-fulfillment-krakow-przy-rondzie-4,oferta,1003234766",
+        "Pozycja": "Software Development Engineer II - Data (Fulfillment)",
+        "Firma": "Tesco Technology",
+        "Min salary": 17000,
+        "Max salary": 25000,
+        "Currency": "PLN",
+        "Skills": [
+            "Hadoop",
+            "Scala",
+            "Spark"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 32
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/sql-developer-warszawa-skierniewicka-10a,oferta,1003213276",
+        "Pozycja": "SQL Developer",
+        "Firma": "CORE3 Sp. z o.o.",
+        "Min salary": 10000,
+        "Max salary": 16000,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "PL/SQL",
+            "T-SQL",
+            "PostgreSQL"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 33
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/senior-data-engineer-warszawa-aleje-jerozolimskie-125,oferta,1003205957",
+        "Pozycja": "Senior Data Engineer",
+        "Firma": "ITFS sp. z o.o.",
+        "Min salary": 26863,
+        "Max salary": 35129,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Python"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 34
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/scala-big-data-developer-warszawa-przyokopowa-33,oferta,1003228073",
+        "Pozycja": "Scala & Big Data Developer",
+        "Firma": "Jit Team sp. z o.o.",
+        "Min salary": 23370,
+        "Max salary": 30996,
+        "Currency": "PLN",
+        "Skills": [
+            "Scala",
+            "Spark",
+            "Hadoop",
+            "Impala",
+            "Jenkins",
+            "Jira",
+            "Git",
+            "Bitbucket"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 35
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/senior-data-engineer-snowflake-warszawa-pulawska-39,oferta,1003188193",
+        "Pozycja": "Senior Data Engineer (Snowflake)",
+        "Firma": "GETINDATA POLAND sp. z o.o.",
+        "Min salary": 33062,
+        "Max salary": 41328,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "SQL",
+            "Snowflake Data Cloud",
+            "DBT",
+            "Airflow"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 36
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-analyst-sap-lodz,oferta,1003200334",
+        "Pozycja": "Data Analyst SAP",
+        "Firma": "JellyTech",
+        "Min salary": 17220,
+        "Max salary": 21648,
+        "Currency": "PLN",
+        "Skills": [
+            "BI",
+            "SAP",
+            "DWH"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": " Senior",
+        "Id": 37
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-scientist-krakow,oferta,1003207130",
+        "Pozycja": "Data Scientist",
+        "Firma": "Link Group Sp. z o.o.",
+        "Min salary": 18000,
+        "Max salary": 24000,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "SQL",
+            "tSQL",
+            "Microsoft SQL Server",
+            "Power BI",
+            "Azure"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 38
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/programista-python-krakow,oferta,1003220082",
+        "Pozycja": "Programista Python",
+        "Firma": "SALES HR",
+        "Min salary": 14760,
+        "Max salary": 19680,
+        "Currency": "PLN",
+        "Skills": [
+            "Python"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": " Senior",
+        "Id": 39
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/sql-server-administrator-lead-poznan-glogowska-31,oferta,1003229298",
+        "Pozycja": "SQL Server Administrator & Lead",
+        "Firma": "summ-it s.a.",
+        "Min salary": 17220,
+        "Max salary": 24600,
+        "Currency": "PLN",
+        "Skills": [
+            "Microsoft SQL Server",
+            "T-SQL"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 40
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-engineer-warszawa-skierniewicka-10a,oferta,1003213281",
+        "Pozycja": "Data Engineer",
+        "Firma": "CORE3 Sp. z o.o.",
+        "Min salary": 10000,
+        "Max salary": 16000,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "PL/SQL",
+            "T-SQL",
+            "PostgreSQL"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 41
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/senior-datastage-developer-gdansk,oferta,1003245911",
+        "Pozycja": "Senior DataStage Developer",
+        "Firma": "Be in IT",
+        "Min salary": 30996,
+        "Max salary": 35129,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Microsoft Power BI",
+            "Cognos"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 42
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-engineer-azure-warszawa-encyklopedyczna-2a,oferta,1003220251",
+        "Pozycja": "Data Engineer (Azure)",
+        "Firma": "JellyTech",
+        "Min salary": 22140,
+        "Max salary": 28905,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Apache Spark",
+            "SQL",
+            "Microsoft Azure"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": " Senior",
+        "Id": 43
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/datastage-developer-warszawa,oferta,1003199659",
+        "Pozycja": "Datastage Developer",
+        "Firma": "Cyclad",
+        "Min salary": 27060,
+        "Max salary": 32472,
+        "Currency": "PLN",
+        "Skills": [
+            "Oracle",
+            "Datastage",
+            "ETL",
+            "IBM Datastage"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 44
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/etl-developer-warszawa,oferta,1003218588",
+        "Pozycja": "ETL Developer",
+        "Firma": "Prime Engineering Poland",
+        "Min salary": 18450,
+        "Max salary": 24600,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "PL/SQL",
+            "Oracle",
+            "Ab Initio",
+            "DataStage"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 45
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/oracle-data-implementation-consultant-epm-pbcs-krakow,oferta,1003220658",
+        "Pozycja": "Oracle Data Implementation Consultant (EPM | PBCS)",
+        "Firma": "1dea KoÅnik Sp. k.",
+        "Min salary": 28930,
+        "Max salary": 32029,
+        "Currency": "PLN",
+        "Skills": [
+            "Oracle",
+            "EPM",
+            "PBCS"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 46
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/senior-data-engineer-with-java-warszawa-pulawska-182,oferta,1003221250",
+        "Pozycja": "Senior Data Engineer with Java",
+        "Firma": "ACAISOFT POLAND Sp. z o.o.",
+        "Min salary": 21000,
+        "Max salary": 26500,
+        "Currency": "PLN",
+        "Skills": [
+            "Java",
+            "AWS",
+            "Kafka",
+            "Spark"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 47
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/business-data-analyst-krakow-kapelanka-42a,oferta,1003176468",
+        "Pozycja": "Business Data Analyst",
+        "Firma": "Mindbox S.A.",
+        "Min salary": 25830,
+        "Max salary": 33062,
+        "Currency": "PLN",
+        "Skills": [],
+        "Category": "BigData/Data Science",
+        "Seniority": " Senior",
+        "Id": 48
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/senior-data-analyst-krakow-kapelanka-42a,oferta,1003203396",
+        "Pozycja": "Senior Data Analyst",
+        "Firma": "Mindbox S.A.",
+        "Min salary": 24600,
+        "Max salary": 30750,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 49
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-engineer-krakow-lekarska-1,oferta,1003219246",
+        "Pozycja": "Data Engineer",
+        "Firma": "edrone Sp. z o.o.",
+        "Min salary": 22140,
+        "Max salary": 29520,
+        "Currency": "PLN",
+        "Skills": [
+            "AWS",
+            "RDS",
+            "DynamoDB",
+            "S3",
+            "Lambda",
+            "ECS",
+            "Athena",
+            "Redshift",
+            "Kinesis",
+            "CodeBuild",
+            "DMS",
+            "Python",
+            "SQL"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 50
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-architect-azure-wroclaw,oferta,1003227927",
+        "Pozycja": "Data Architect (Azure)",
+        "Firma": "Scalo Sp. z o.o.",
+        "Min salary": 33062,
+        "Max salary": 38228,
+        "Currency": "PLN",
+        "Skills": [
+            "Azure Cloud",
+            "Azure DevOps",
+            "Python",
+            "Spark",
+            "SQL",
+            "T-SQL",
+            "PowerBI",
+            "Qlik",
+            "Agile"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 51
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/ab-initio-developer-warszawa-aleja-jana-pawla-ii-22,oferta,1003207953",
+        "Pozycja": "AB Initio Developer",
+        "Firma": "ASTEK Polska",
+        "Min salary": 16000,
+        "Max salary": 19000,
+        "Currency": "PLN",
+        "Skills": [
+            "PL/SQL",
+            "SQL",
+            "AB Initio",
+            "AB Initio MetaData Hub",
+            "AB Initio GDE",
+            "Bash",
+            "Shell",
+            "ETL"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 52
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-engineer-sprinklr-warszawa-encyklopedyczna-2a,oferta,1003181295",
+        "Pozycja": "Data Engineer (Sprinklr)",
+        "Firma": "JellyTech",
+        "Min salary": 17220,
+        "Max salary": 27060,
+        "Currency": "PLN",
+        "Skills": [
+            "Sprinklr",
+            "ETL",
+            "DWH",
+            "Data Lake",
+            "Databricks",
+            "AWS",
+            "Github",
+            "SQL",
+            "Python",
+            "Spark"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": " Senior",
+        "Id": 53
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-engineer-krakow,oferta,1003243733",
+        "Pozycja": "Data Engineer",
+        "Firma": "ITDS Polska Sp. z o.o.",
+        "Min salary": 24797,
+        "Max salary": 32029,
+        "Currency": "PLN",
+        "Skills": [
+            "Google BigQuery",
+            "SQL",
+            "T-SQL",
+            "Google Cloud Platform",
+            "Ansible",
+            "Jenkins",
+            "Puppet",
+            "Chef",
+            "GitHub"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": " Senior",
+        "Id": 54
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-engineer-krakow-stanislawa-zolkiewskiego-17b,oferta,1003197391",
+        "Pozycja": "Data Engineer",
+        "Firma": "Medius Poland Sp. z o.o",
+        "Min salary": 15000,
+        "Max salary": 21000,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Python",
+            "PySpark",
+            "Spark",
+            "Databricks"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": " Senior",
+        "Id": 55
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-engineer-nifi-krakow-mogilska-43,oferta,1003188192",
+        "Pozycja": "Data Engineer (NiFi)",
+        "Firma": "ONWELO Sp. z o.o.",
+        "Min salary": 11000,
+        "Max salary": 14000,
+        "Currency": "PLN",
+        "Skills": [
+            "ETL",
+            "NiFi",
+            "Python",
+            "SQL"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": " Senior",
+        "Id": 56
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/software-engineer-ii-data-and-storage-services-warszawa-koszykowa-61,oferta,1003232875",
+        "Pozycja": "Software Engineer II (Data and Storage Services)",
+        "Firma": "Affirm",
+        "Min salary": 18840,
+        "Max salary": 23550,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Apache Spark",
+            "Kubernetes",
+            "MySQL",
+            "AWS"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 57
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/senior-data-engineer-warszawa,oferta,1003234775",
+        "Pozycja": "Senior Data Engineer",
+        "Firma": "Novaris Sp. z o.o.",
+        "Min salary": 27060,
+        "Max salary": 39360,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "SQL",
+            "AWS",
+            "Azure",
+            "GCP",
+            "Snowflake Data Cloud"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 58
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-analyst-krakow,oferta,1003207137",
+        "Pozycja": "Data Analyst",
+        "Firma": "Link Group Sp. z o.o.",
+        "Min salary": 16000,
+        "Max salary": 21000,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Python",
+            "Tableau",
+            "Excel"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 59
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-reporting-senior-developer-krakow,oferta,1003213896",
+        "Pozycja": "Data & Reporting Senior Developer",
+        "Firma": "Mindbox S.A.",
+        "Min salary": 24600,
+        "Max salary": 30750,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Google Cloud Platform"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 60
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/data-engineer-warszawa,oferta,1003186926",
+        "Pozycja": "Data Engineer",
+        "Firma": "Connectis_",
+        "Min salary": 24600,
+        "Max salary": 28905,
+        "Currency": "PLN",
+        "Skills": [
+            "Azure Data Factory",
+            "Azure Data Lake Storage",
+            "Python",
+            "SQL",
+            "PySpark"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 61
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/master-data-management-analyst-krakow-lubicz-23,oferta,1003245044",
+        "Pozycja": "Master Data Management Analyst",
+        "Firma": "Sylvamo GBSC",
+        "Min salary": 11700,
+        "Max salary": 14300,
+        "Currency": "PLN",
+        "Skills": [
+            "SAP"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 62
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/scala-big-data-developer-warszawa,oferta,1003237500",
+        "Pozycja": "Scala & Big Data Developer",
+        "Firma": "Novaris Sp. z o.o.",
+        "Min salary": 23370,
+        "Max salary": 39360,
+        "Currency": "PLN",
+        "Skills": [
+            "Scala",
+            "Apache Spark"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 63
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/moody-s-regulatory-reporting-functional-liquidity-risk-krakow,oferta,1003220471",
+        "Pozycja": "Moodyâs Regulatory Reporting Functional â Liquidity Risk",
+        "Firma": "Fusion Practices",
+        "Min salary": 15000,
+        "Max salary": 27000,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Moodys regulatory reporting",
+            "Regulatory reporting",
+            "Liquidity risk"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Mid",
+        "Id": 64
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/senior-data-engineer-scientist-warszawa,oferta,1003205955",
+        "Pozycja": "Senior Data Engineer / Scientist",
+        "Firma": "DevsData LLC",
+        "Min salary": 26839,
+        "Max salary": 37269,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Python",
+            "R",
+            "PyTorch",
+            "TensorFlow",
+            "Scikit-learn",
+            "AWS",
+            "Elasticsearch"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 65
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/senior-software-engineer-data-and-storage-services-warszawa-koszykowa-61,oferta,1003180454",
+        "Pozycja": "Senior Software Engineer (Data and Storage Services)",
+        "Firma": "Affirm",
+        "Min salary": 22042,
+        "Max salary": 27550,
+        "Currency": "PLN",
+        "Skills": [
+            "AWS",
+            "Microsoft Azure",
+            "Google Cloud Platform",
+            "Python",
+            "Go",
+            "Java",
+            "Kotlin",
+            "Scala"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": "Senior",
+        "Id": 66
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/programista-etl-ab-initio-oracle-krakow,oferta,1003220101",
+        "Pozycja": "Programista ETL (Ab Initio, Oracle)",
+        "Firma": "Prime Engineering Poland",
+        "Min salary": 11000,
+        "Max salary": 15000,
+        "Currency": "PLN",
+        "Skills": [
+            "PL/SQL",
+            "ETL",
+            "Oracle",
+            "SQL"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": " Senior",
+        "Id": 67
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/etl-developer-talend-krakow-mogilska-43,oferta,1003188215",
+        "Pozycja": "ETL Developer (Talend)",
+        "Firma": "ONWELO Sp. z o.o.",
+        "Min salary": 11000,
+        "Max salary": 14000,
+        "Currency": "PLN",
+        "Skills": [
+            "ETL",
+            "Talend",
+            "Python",
+            "SQL"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": " Senior",
+        "Id": 68
+    },
+    {
+        "Źródło": "it.pracuj.pl",
+        "Link": "https://www.pracuj.pl/praca/sql-developer-wroclaw,oferta,1003208223",
+        "Pozycja": "SQL developer",
+        "Firma": "CLEVER GRAPES sp. z o.o.",
+        "Min salary": 21525,
+        "Max salary": 25830,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL"
+        ],
+        "Category": "BigData/Data Science",
+        "Seniority": " Junior",
+        "Id": 69
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/dac-digital-senior-consultant-data-integration-informatica-krakow",
+        "Pozycja": "Senior Consultant Data Integration (Informatica)",
+        "Firma": "DAC.digital",
+        "Min salary": 14000.0,
+        "Max salary": 19500.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Oracle",
+            "PL/SQL",
+            "Microsoft SQL",
+            "ETL tools",
+            "Informatica Powercenter",
+            "Snowflake"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 70
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/dac-digital-senior-consultant-data-integration-oracle-krakow",
+        "Pozycja": "Senior Consultant Data Integration (Oracle)",
+        "Firma": "DAC.digital",
+        "Min salary": 14000.0,
+        "Max salary": 19500.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Oracle",
+            "Microsoft SQL",
+            "Snowflake",
+            "ETL tools"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 71
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/emagine-polska-master-data-analyst-power-bi-krakow",
+        "Pozycja": "Master Data Analyst / Power BI",
+        "Firma": "emagine Polska",
+        "Min salary": 25200.0,
+        "Max salary": 30240.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Power BI",
+            "Microsoft SQL",
+            "Excel",
+            "master data",
+            "Python/R"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 72
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/ework-group-data-lead-krakow",
+        "Pozycja": "Data Lead",
+        "Firma": "Ework Group",
+        "Min salary": 32380.0,
+        "Max salary": 34540.0,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "DWH",
+            "ETL"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 73
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/kitopi-senior-data-analyst-krakow",
+        "Pozycja": "Senior Data Analyst",
+        "Firma": "Kitopi",
+        "Min salary": 15000.0,
+        "Max salary": 17500.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Analytics",
+            "Reporting",
+            "SQL",
+            "Python",
+            "FBT",
+            "Data Visualization",
+            "English",
+            "Polish",
+            "A/B testing"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 74
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/cloudfide-data-engineer-krakow-365175",
+        "Pozycja": "Data Engineer",
+        "Firma": "CLOUDFIDE",
+        "Min salary": 21800.0,
+        "Max salary": 30240.0,
+        "Currency": "PLN",
+        "Skills": [
+            "DWH",
+            "Data Lake",
+            "Python",
+            "SQL",
+            "Microsoft Azure Cloud",
+            "Databricks",
+            "Apache Airflow",
+            "Apache Spark"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 75
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/sunscrapers-senior-data-engineer-krakow-364032",
+        "Pozycja": "Senior Data Engineer",
+        "Firma": "Sunscrapers",
+        "Min salary": 30000.0,
+        "Max salary": 45000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "AWS",
+            "ETL",
+            "English/Polish",
+            "Terraform",
+            "Snowflake",
+            "SQL",
+            "Docker",
+            "Pandas",
+            "NumPy"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 76
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/datumo-senior-data-engineer-krakow",
+        "Pozycja": "Senior Data Engineer",
+        "Firma": "Datumo",
+        "Min salary": 20000.0,
+        "Max salary": 30000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Big Data",
+            "Cloud",
+            "Snowflake",
+            "Scala",
+            "Spark",
+            "Python",
+            "Airflow",
+            "Databricks",
+            "Docker",
+            "Kafka"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 77
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/masterborn-sp-z-o-o-delivery-support-engineer-krakow",
+        "Pozycja": "Delivery Support Engineer",
+        "Firma": "MasterBorn Sp. z o.o.",
+        "Min salary": 9000.0,
+        "Max salary": 15000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "ETL",
+            "English",
+            "Polish",
+            "Python"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 78
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/devsdata-llc-data-scientist-krakow",
+        "Pozycja": "Data Scientist",
+        "Firma": "DevsData LLC",
+        "Min salary": 21550.0,
+        "Max salary": 29930.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Data Science",
+            "Python",
+            "SQL"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 79
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/cloudfide-business-intelligence-power-bi-developer-krakow",
+        "Pozycja": "Business Intelligence (Power BI) Developer",
+        "Firma": "CLOUDFIDE",
+        "Min salary": 11500.0,
+        "Max salary": 25000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "DAX",
+            "MQ",
+            "Databricks",
+            "SQL",
+            "Python",
+            "Microsoft BI",
+            "RLS",
+            "Azure Synapse",
+            "Azure Data Factory"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 80
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/j-labs-senior-data-engineer-krakow",
+        "Pozycja": "Senior Data Engineer",
+        "Firma": "j-labs",
+        "Min salary": 24000.0,
+        "Max salary": 28000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "AWS",
+            "SQL",
+            "Terraform"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 81
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/kolomolo-db-engineer-administrator-krakow",
+        "Pozycja": "DB Engineer/Administrator",
+        "Firma": "Kolomolo",
+        "Min salary": 15000.0,
+        "Max salary": 25000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Oracle DB",
+            "MySQL",
+            "Data analysis",
+            "Linux Servers",
+            "AWS",
+            "PostgreSQL"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 82
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/novomatic-business-intelligence-developer-krakow",
+        "Pozycja": "Business Intelligence Developer",
+        "Firma": "NOVOMATIC",
+        "Min salary": 11500.0,
+        "Max salary": 23000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Tableau",
+            "MS SQL",
+            "ETL tools"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 83
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/capgemini-senior-big-data-engineer-krakow",
+        "Pozycja": "Senior Big Data Engineer",
+        "Firma": "Capgemini",
+        "Min salary": 17000.0,
+        "Max salary": 24000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Big Data",
+            "Python",
+            "Java",
+            "Hadoop",
+            "Spark",
+            "JavaScript",
+            "Airflow",
+            "Apache Atlas",
+            "AWS",
+            "Go"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 84
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/harvey-nash-technology-data-engineer-krakow",
+        "Pozycja": "Data Engineer",
+        "Firma": "Harvey Nash Technology",
+        "Min salary": 17000.0,
+        "Max salary": 23000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Spark",
+            "SQL",
+            "Hive",
+            "Snowflake",
+            "Python",
+            "AWS",
+            "Scala"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 85
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/relativity-lead-devops-observability-krakow-371283",
+        "Pozycja": "Lead DevOps (Observability)",
+        "Firma": "Relativity",
+        "Min salary": 17750.0,
+        "Max salary": 24080.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Open Telemetry",
+            "Fluent Bit",
+            "Snowflake",
+            "Powershell",
+            "Go Lang",
+            "C#",
+            "GitHub Actions",
+            "Big Data",
+            "Agile",
+            "English"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 86
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/infinitedata-dwh-analyst-krakow",
+        "Pozycja": "DWH Analyst",
+        "Firma": "InfiniteDATA",
+        "Min salary": 12000.0,
+        "Max salary": 16000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Data Warehouse",
+            "visio/erwin",
+            "PowerBi",
+            "Snowflake",
+            "Python"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 87
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/1dea-senior-data-engineer-python-snowflake-krakow",
+        "Pozycja": "Senior Data Engineer (Python / Snowflake)",
+        "Firma": "1dea",
+        "Min salary": 23520.0,
+        "Max salary": 26880.0,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Snowflake",
+            "Data modeling",
+            "Python",
+            "GitLab",
+            "English",
+            "AWS"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 88
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/intent-data-engineer-freelance-krakow",
+        "Pozycja": "Data Engineer (freelance)",
+        "Firma": ".intent",
+        "Min salary": 24000.0,
+        "Max salary": 30000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Data architecture",
+            "API",
+            "Java"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 89
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/eagerdevs-big-data-engineer-krakow",
+        "Pozycja": "Big Data Engineer",
+        "Firma": "EagerDevs",
+        "Min salary": 20000.0,
+        "Max salary": 23000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Java",
+            "Hadoop",
+            "Spark",
+            "Hive",
+            "Apache",
+            "Scala",
+            "Kafka",
+            "Oracle",
+            "NoSQL"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 90
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/virtuslab-data-platform-engineer-expert-krakow",
+        "Pozycja": "Software Engineer - Data Platforms (Expert)",
+        "Firma": "VirtusLab",
+        "Min salary": 26000.0,
+        "Max salary": 31000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Java/Scala/Python",
+            "Apache Beam",
+            "Apache Spark",
+            "English",
+            "AWS / GCP",
+            "Kubernetes",
+            "SQL",
+            "Kafka/BigQuery/Airflow"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 91
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/natek-data-engineer-krakow-348977",
+        "Pozycja": "Data Engineer",
+        "Firma": "NATEK",
+        "Min salary": 23000.0,
+        "Max salary": 24000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Data Engineering",
+            "MongoDB",
+            "Python",
+            "Pandas",
+            "REST API",
+            "PostgreSQL",
+            "AWS",
+            "Starbust",
+            "Git",
+            "Jenkins"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 92
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/tesco-technology-software-development-engineer-ii-data-engineering-forecasting",
+        "Pozycja": "Software Development Engineer II - Data Engineering (Forecasting)",
+        "Firma": "Tesco Technology",
+        "Min salary": 20000.0,
+        "Max salary": 30000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "PySpark",
+            "Spark",
+            "Python",
+            "Big Data",
+            "Hadoop",
+            "Hive"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 93
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/1dea-data-engineer-krakow",
+        "Pozycja": "Data Engineer",
+        "Firma": "1dea",
+        "Min salary": 25000.0,
+        "Max salary": 30000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Java",
+            "Apache Spark",
+            "AWS/Azure/GCP",
+            "Scala"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 94
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/andea-software-consultant-9014d052-b96c-4604-9ceb-7d812ad7dbf8",
+        "Pozycja": "Software Consultant",
+        "Firma": "Andea",
+        "Min salary": 7500.0,
+        "Max salary": 10000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "English",
+            "SQL",
+            "HTML",
+            "C#",
+            "JavaScript",
+            "CSS",
+            "XSLT",
+            "Problem Solving",
+            "Team Management",
+            "Communication Skills"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 95
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/unity-group-machine-learning-engineer-krakow-368552",
+        "Pozycja": "Machine Learning Engineer",
+        "Firma": "Unity Group",
+        "Min salary": 16800.0,
+        "Max salary": 21800.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Databases",
+            "Python",
+            "LLM",
+            "NLP",
+            "OpenAI",
+            "MLOps",
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "Computer Vision"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 96
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/yosh-ai-data-scientist-krakow",
+        "Pozycja": "Data Scientist",
+        "Firma": "Yosh.AI",
+        "Min salary": 12000.0,
+        "Max salary": 18000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Data Science",
+            "Generative AI",
+            "Python",
+            "NLP",
+            "Pandas",
+            "Machine Learning",
+            "PyTorch",
+            "NumPy",
+            "Git"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 97
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/itds-polska-sp-z-o-o-data-visualization-lead",
+        "Pozycja": "Data Visualization Lead",
+        "Firma": "ITDS Polska Sp. z o.o.",
+        "Min salary": 21000.0,
+        "Max salary": 25200.0,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Big Query",
+            "Data Studio",
+            "Agile",
+            "JIRA",
+            "problem-solving skills",
+            "English",
+            "Analytical skills",
+            "Python"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 98
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/rits-professional-services-data-scientist-krakow",
+        "Pozycja": "Data Scientist",
+        "Firma": "RITS Professional Services",
+        "Min salary": 22680.0,
+        "Max salary": 27720.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Machine Learning",
+            "ETL/Azure",
+            "Git",
+            "PowerBI/Tableau/Python"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 99
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/trans-eu-group-sa-dataops-engineer-krakow-375285",
+        "Pozycja": "DataOps Engineer",
+        "Firma": "Trans.eu Group SA",
+        "Min salary": 12000.0,
+        "Max salary": 22000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Git",
+            "AWS",
+            "Snowflake"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 100
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/1dea-pl-sql-developer-sektor-ubezpieczen-na-zycie-krakow",
+        "Pozycja": "PL/SQL Developer (Sektor ubezpieczeń na życie)",
+        "Firma": "1dea",
+        "Min salary": 18000.0,
+        "Max salary": 26000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "PL/SQL",
+            "Oracle",
+            "Oracle APEX",
+            "BI Publisher"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 101
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/edrone-data-engineer",
+        "Pozycja": "Data Engineer",
+        "Firma": "edrone",
+        "Min salary": 18000.0,
+        "Max salary": 24000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "SQL",
+            "AWS",
+            "ETL",
+            "Spark",
+            "Java"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 102
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/emagine-polska-data-systems-engineer-krakow",
+        "Pozycja": "Data Systems Engineer",
+        "Firma": "emagine Polska",
+        "Min salary": 26880.0,
+        "Max salary": 30240.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Data Warehousing",
+            "English",
+            "SQL",
+            "Azure"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 103
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/datumo-big-data-engineer-krakow",
+        "Pozycja": "Data Engineer",
+        "Firma": "Datumo",
+        "Min salary": 15000.0,
+        "Max salary": 20000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Apache Spark",
+            "Cloud",
+            "Python",
+            "Big Data",
+            "Scala",
+            "Airflow",
+            "Docker",
+            "Kafka",
+            "Snowflake",
+            "Databricks"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 104
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/polarys-polska-tibco-ebx-consultant",
+        "Pozycja": "Tibco EBX Consultant",
+        "Firma": "Polarys Polska",
+        "Min salary": 15000.0,
+        "Max salary": 22000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Tibco EBX Software",
+            "Java",
+            "REST API",
+            "ITIL"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 105
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/cshark-senior-data-engineer-krakow",
+        "Pozycja": "Senior Data Engineer",
+        "Firma": "CSHARK",
+        "Min salary": 23500.0,
+        "Max salary": 30000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Data Engineering",
+            "Python",
+            "SQL",
+            "Spark",
+            "PySpark",
+            "Azure"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 106
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/emagine-polska-data-lead-python-sql-data-and-governance-krakow",
+        "Pozycja": "Data Lead ( Python/SQL) - Data and Governance",
+        "Firma": "emagine Polska",
+        "Min salary": 27000.0,
+        "Max salary": 33000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "SQL",
+            "Databases",
+            "Data Warehousing",
+            "Data Governace",
+            "CRM",
+            "Sales"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 107
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/emagine-polska-api-developer-krakow",
+        "Pozycja": "API Developer",
+        "Firma": "emagine Polska",
+        "Min salary": 22000.0,
+        "Max salary": 27000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "API",
+            "Azure Data Products",
+            "Python / Java / C#",
+            "RESTful API design",
+            "data governance"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 108
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/7n-senior-data-engineer-airflow-krakow",
+        "Pozycja": "Senior Data Engineer (Airflow)",
+        "Firma": "7N",
+        "Min salary": 28560.0,
+        "Max salary": 33600.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Airflow",
+            "Python",
+            "SQL",
+            "Amazon AWS",
+            "Snowflake",
+            "ETL",
+            "Terraform",
+            "IICS"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 109
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/infinitedata-azure-architect-krakow-367642",
+        "Pozycja": "Azure Architect",
+        "Firma": "InfiniteDATA",
+        "Min salary": 25000.0,
+        "Max salary": 30000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Azure",
+            "Azure Computer Network",
+            "Azure Storage",
+            "Azure Monitoring",
+            "Azure Security",
+            "SQL",
+            "Data Warehouse",
+            "Azure Administration",
+            "DevOps processes",
+            "Azure development"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 110
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/manpowergroup-experis-data-analyst",
+        "Pozycja": "Data Analyst",
+        "Firma": "MANPOWERGROUP Experis",
+        "Min salary": 5040.0,
+        "Max salary": 5880.0,
+        "Currency": "PLN",
+        "Skills": [
+            "MS Excel",
+            "Microsoft SQL",
+            "Snowflake",
+            "Python",
+            "Tableau",
+            "DATA MODELLING",
+            "ETL",
+            "Data integrations"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 111
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/n-ix-data-engineer-krakow",
+        "Pozycja": "Data Engineer",
+        "Firma": "N-iX",
+        "Min salary": 11970.0,
+        "Max salary": 12770.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Microsoft Azure Cloud",
+            "Python",
+            "PySpark",
+            "SQL",
+            "ETL",
+            "Data"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 112
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/fabrity-sp-z-o-o-powerbi-developer-krakow",
+        "Pozycja": "PowerBI Developer",
+        "Firma": "Fabrity Sp. z o.o.",
+        "Min salary": 16800.0,
+        "Max salary": 28500.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Power BI",
+            "DWH",
+            "ETL tools",
+            "SQL",
+            "Snowflake",
+            "Power Apps"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 113
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/adastra-data-engineer-with-databricks-krakow-375056",
+        "Pozycja": "Data Engineer with Databricks",
+        "Firma": "ADASTRA",
+        "Min salary": 17270.0,
+        "Max salary": 21590.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Databricks",
+            "Python",
+            "PySpark",
+            "Cloud",
+            "PostreSQL"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 114
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/sigma-it-poland-power-bi-developer-hr-krakow",
+        "Pozycja": "Power BI Developer (HR)",
+        "Firma": "Sigma IT Poland",
+        "Min salary": 19300.0,
+        "Max salary": 21800.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Power BI",
+            "SQL",
+            "ETL",
+            "AWS",
+            "Snowflake",
+            "Matillion"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 115
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/tesco-technology-software-development-engineer-iii",
+        "Pozycja": "Data Engineer III - Fulfillment",
+        "Firma": "Tesco Technology",
+        "Min salary": 26000.0,
+        "Max salary": 40000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Hadoop",
+            "Spark",
+            "Scala",
+            "Hive",
+            "Kafka",
+            "CI/CD",
+            "Kubernetes"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 116
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/link-group-data-analyst-70de3d92-52c8-4760-93f8-8b20de8a8930",
+        "Pozycja": "Data Analyst",
+        "Firma": "Link Group",
+        "Min salary": 16000.0,
+        "Max salary": 21000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Analytical Thinking",
+            "SQL",
+            "Python",
+            "Tableau"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 117
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/link-group-data-scientist-6e3a2dfc-d9f9-4644-9a51-b1d6288940b2",
+        "Pozycja": "Data Scientist",
+        "Firma": "Link Group",
+        "Min salary": 18000.0,
+        "Max salary": 24000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Python",
+            "Power BI"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 118
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/tesco-technology-software-development-engineer-0bee35df-4bc7-4c4a-8bee-331cf10b6446",
+        "Pozycja": "Data Engineer III Forecast",
+        "Firma": "Tesco Technology",
+        "Min salary": 26000.0,
+        "Max salary": 40000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Big Data",
+            "Spark",
+            "PySpark",
+            "Python",
+            "Hadoop",
+            "Design Patterns",
+            "Hive",
+            "Airflow"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 119
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/clickup-mid-or-senior-level-backend-data-engineer-krakow",
+        "Pozycja": "Mid Level Data Engineer",
+        "Firma": "ClickUp",
+        "Min salary": 20000.0,
+        "Max salary": 35000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "TypeScript",
+            "PostgreSQL",
+            "SQL",
+            "SaaS",
+            "Aurora / RDS",
+            "DynamoDB",
+            "s3",
+            "Redis",
+            "Elasticsearch",
+            "Docker"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 120
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/human4human-recruitment-software-integration-engineer-big-data-and-odoo",
+        "Pozycja": "Odoo and Big Data Architect",
+        "Firma": "Human4Human Recruitment",
+        "Min salary": 32000.0,
+        "Max salary": 36000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Big Data",
+            "Odoo",
+            "Apache"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 121
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/square-one-data-engineer-krakow-358807",
+        "Pozycja": "Data Engineer",
+        "Firma": "Square One",
+        "Min salary": 22000.0,
+        "Max salary": 25000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "AWS",
+            "R",
+            "Snowflake",
+            "ETL",
+            "SQL",
+            "DBT",
+            "Talend",
+            "CI/CD"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 122
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/fabrity-sp-z-o-o-dwh-developer-analyst-krakow-372120",
+        "Pozycja": "DWH Developer/Analyst",
+        "Firma": "Fabrity Sp. z o.o.",
+        "Min salary": 14500.0,
+        "Max salary": 27500.0,
+        "Currency": "PLN",
+        "Skills": [
+            "DWH",
+            "ETL tools",
+            "MS BI",
+            "SQL",
+            "Python",
+            "Snowflake",
+            "MS SQL",
+            "SSIS",
+            "Agile/DevOps",
+            "Power BI"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 123
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/1dea-pl-sql-developer-krakow",
+        "Pozycja": "PL/SQL Developer",
+        "Firma": "1dea",
+        "Min salary": 20000.0,
+        "Max salary": 27000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "PL/SQL",
+            "Oracle"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 124
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/hn-experts-senior-business-analyst-with-german-krakow-366262",
+        "Pozycja": "Senior Business Analyst with German",
+        "Firma": "HN EXPERTS",
+        "Min salary": 16000.0,
+        "Max salary": 19000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Swift",
+            "SEPA",
+            "ISO20022",
+            "AZV",
+            "Target2",
+            "crypto currency"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 125
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/hn-experts-senior-business-analyst-mit-deutsch-krakow-366300",
+        "Pozycja": "Senior Business Analyst mit Deutsch",
+        "Firma": "HN EXPERTS",
+        "Min salary": 16000.0,
+        "Max salary": 19000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Swift",
+            "SEPA",
+            "ISO20022",
+            "AZV",
+            "Target2",
+            "crypto currency"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 126
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/hn-experts-junior-business-analyst-with-german-krakow-366278",
+        "Pozycja": "Junior Business Analyst with German",
+        "Firma": "HN EXPERTS",
+        "Min salary": 7000.0,
+        "Max salary": 10000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "SEPA",
+            "ISO20022",
+            "AZV",
+            "Target2",
+            "crypto currency",
+            "Swift"
+        ],
+        "Category": "Data",
+        "Seniority": "Junior",
+        "Id": 127
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/hn-experts-business-analyst-mit-deutsch-krakow-366289",
+        "Pozycja": "Business Analyst mit Deutsch",
+        "Firma": "HN EXPERTS",
+        "Min salary": 11000.0,
+        "Max salary": 15000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Swift",
+            "SEPA",
+            "ISO20022",
+            "AZV",
+            "Target2",
+            "crypto currency"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 128
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/hn-experts-junior-business-analyst-mit-deutsch-krakow-366279",
+        "Pozycja": "Junior Business Analyst mit Deutsch",
+        "Firma": "HN EXPERTS",
+        "Min salary": 7000.0,
+        "Max salary": 10000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Swift",
+            "SEPA",
+            "ISO20022",
+            "AZV",
+            "Target2",
+            "crypto currency"
+        ],
+        "Category": "Data",
+        "Seniority": "Junior",
+        "Id": 129
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/insight-senior-data-engineer-with-python-krakow",
+        "Pozycja": "Senior Data Engineer with Python",
+        "Firma": "INSIGHT",
+        "Min salary": 25000.0,
+        "Max salary": 31500.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Databricks",
+            "Azure Data Factory",
+            "Terraform"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 130
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/natek-analityk-danych-krakow-366173",
+        "Pozycja": "Analityk Danych",
+        "Firma": "NATEK",
+        "Min salary": 20000.0,
+        "Max salary": 22000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "rynki finansowe",
+            "SQL",
+            "Scrum",
+            "Analiza Biznesowa",
+            "DWH"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 131
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/hn-experts-business-analyst-with-german-krakow-366316",
+        "Pozycja": "Business Analyst with German",
+        "Firma": "HN EXPERTS",
+        "Min salary": 11000.0,
+        "Max salary": 15000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Swift",
+            "SEPA",
+            "ISO20022",
+            "AZV",
+            "Target2",
+            "crypto currency"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 132
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/square-one-dba-sre-engineer-krakow-352981",
+        "Pozycja": "DBA/SRE Engineer",
+        "Firma": "Square One",
+        "Min salary": 27000.0,
+        "Max salary": 31000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "MongoDB",
+            "MsSQL",
+            "Azure",
+            "ETL tools",
+            "Datadog"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 133
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/aperia-talend-engineer",
+        "Pozycja": "ETL Engineer (Talend)",
+        "Firma": "Aperia",
+        "Min salary": 18100.0,
+        "Max salary": 35000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "IT",
+            "Java",
+            "Talend Data Integration",
+            "Big Data Frameworks"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 134
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/n-ix-data-architect-data-unit-krakow",
+        "Pozycja": "Data Architect (Data Unit)",
+        "Firma": "N-iX",
+        "Min salary": 35920.0,
+        "Max salary": 39910.0,
+        "Currency": "PLN",
+        "Skills": [
+            "AWS",
+            "Databases",
+            "Python",
+            "Snowflake",
+            "MDM"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 135
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/n-ix-senior-machine-learning-engineer",
+        "Pozycja": "Senior Machine Learning Engineer",
+        "Firma": "N-iX",
+        "Min salary": 23940.0,
+        "Max salary": 31930.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Machine Learning",
+            "Python",
+            "AWS"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 136
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/aperia-data-visualization-engineer-powerbi",
+        "Pozycja": "Data Visualization Engineer (PowerBI)",
+        "Firma": "Aperia",
+        "Min salary": 12800.0,
+        "Max salary": 19000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Data Visualization",
+            "Power BI",
+            "DAX"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 137
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/idego-senior-data-engineer-krakow-365095",
+        "Pozycja": "Senior Data Engineer",
+        "Firma": "Idego",
+        "Min salary": 27000.0,
+        "Max salary": 33000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "SSIS",
+            "SSAS",
+            "Snowflake",
+            "SQL Server",
+            "Agile",
+            "Scrum",
+            "English",
+            "Fivetran",
+            "DBT",
+            "Python"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 138
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/upvanta-sp-z-o-o-support-engineers-alcatel-oxe-krakow",
+        "Pozycja": "Support Engineers - Alcatel OXE",
+        "Firma": "Upvanta sp. z o.o.",
+        "Min salary": 15000.0,
+        "Max salary": 22000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "VoiP",
+            "ISDN",
+            "Data"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 139
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/dmtech-polska-senior-data-engineer-z-j-niemieckim-krakow",
+        "Pozycja": "Senior Data Engineer z j.niemieckim",
+        "Firma": "dmTECH Polska",
+        "Min salary": 15100.0,
+        "Max salary": 29000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Niemiecki",
+            "Big Data",
+            "GCP",
+            "Python",
+            "Java",
+            "Kotlin"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 140
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/sporty-group-senior-dba-krakow-367294",
+        "Pozycja": "Senior DBA",
+        "Firma": "Sporty Group",
+        "Min salary": 15110.0,
+        "Max salary": 25900.0,
+        "Currency": "PLN",
+        "Skills": [
+            "MySQL",
+            "MongoDB",
+            "AWS RDS",
+            "Amazon AWS",
+            "Python",
+            "Shell Scripting"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 141
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/sporty-group-bi-analyst-krakow",
+        "Pozycja": "BI Analyst",
+        "Firma": "Sporty Group",
+        "Min salary": 15110.0,
+        "Max salary": 25900.0,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Python",
+            "ETL",
+            "AWS",
+            "Airflow",
+            "Linux"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 142
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/getindata-part-of-xebia-senior-data-engineer-azure-krakow-369197",
+        "Pozycja": "Senior Data Engineer (Azure)",
+        "Firma": "GetInData | Part of Xebia",
+        "Min salary": 26880.0,
+        "Max salary": 33600.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Kafka",
+            "Git",
+            "Azure",
+            "Airflow",
+            "Azure Data Factory",
+            "Docker",
+            "Terraform",
+            "CI/CD",
+            "Python/Scala/Java",
+            "Databricks"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 143
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/dmtech-polska-senior-data-scientist-z-j-niemieckim-krakow",
+        "Pozycja": "Senior Data Scientist z j.niemieckim",
+        "Firma": "dmTECH Polska",
+        "Min salary": 15100.0,
+        "Max salary": 29000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Niemiecki",
+            "Big Data",
+            "GCP",
+            "Python",
+            "Java",
+            "Kotlin"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 144
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/elitmind-data-platform-architect-krakow",
+        "Pozycja": "Data Platform Architect",
+        "Firma": "Elitmind",
+        "Min salary": 27000.0,
+        "Max salary": 34000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Microsoft Azure Cloud",
+            "ADF",
+            "Data Warehousing",
+            "LakeHouse",
+            "Azure Synapse",
+            "Databricks",
+            "MS SQL",
+            "data governance",
+            "MS Certification"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 145
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/epc-network-data-analyst-krakow",
+        "Pozycja": "Data Analyst",
+        "Firma": "EPC Network",
+        "Min salary": 11000.0,
+        "Max salary": 16000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Analytics",
+            "PostgreSQL",
+            "BigQuery",
+            "SQL",
+            "Looker",
+            "Business Intelligence",
+            "Business Analysis"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 146
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/shookai-analytics-senior-power-bi-consultant-krakow",
+        "Pozycja": "Senior Power BI Consultant",
+        "Firma": "Shookai Analytics",
+        "Min salary": 14000.0,
+        "Max salary": 24000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Power BI",
+            "Microsoft Azure",
+            "MS SQL",
+            "SQL",
+            "English",
+            "Microsoft Fabric",
+            "ETL tools",
+            "ERP"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 147
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/britenet-data-engineer-krakow",
+        "Pozycja": "Data Engineer",
+        "Firma": "Britenet",
+        "Min salary": 18500.0,
+        "Max salary": 21500.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Airflow",
+            "Spark",
+            "SQL"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 148
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/elitmind-data-platform-engineer-consultant-team-leader-krakow",
+        "Pozycja": "Data Platform Engineer/Consultant – Team Leader",
+        "Firma": "Elitmind",
+        "Min salary": 18000.0,
+        "Max salary": 24000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Microsoft SQL",
+            "Team Leadership",
+            "Databases",
+            "Data Warehousing",
+            "SSIS",
+            "Microsoft Azure Cloud"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 149
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/sunscrapers-data-engineer-krakow-368903",
+        "Pozycja": "Data Engineer",
+        "Firma": "Sunscrapers",
+        "Min salary": 20000.0,
+        "Max salary": 24000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Pandas",
+            "ETL",
+            "SQL",
+            "DBT",
+            "Docker",
+            "Snowflake",
+            "Terraform",
+            "Azure"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 150
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/next-technology-senior-machine-learning-generative-ai-engineer-krakow",
+        "Pozycja": "Senior Machine Learning / Generative AI Engineer",
+        "Firma": "Next Technology",
+        "Min salary": 23940.0,
+        "Max salary": 27940.0,
+        "Currency": "PLN",
+        "Skills": [
+            "AI",
+            "Machine Learning",
+            "Python",
+            "PyTorch",
+            "diffusion models",
+            "gans",
+            "transformers",
+            "3D modeling"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 151
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/tesco-technology-software-development-engineer-ii",
+        "Pozycja": "Data Engineer II - Fulfillment",
+        "Firma": "Tesco Technology",
+        "Min salary": 20000.0,
+        "Max salary": 30000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Hadoop",
+            "Scala",
+            "Kafka",
+            "Spark",
+            "Kubernetes"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 152
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/getindata-part-of-xebia-senior-mlops-engineer-aws-krakow",
+        "Pozycja": "Senior MLOps Engineer (AWS)",
+        "Firma": "GetInData | Part of Xebia",
+        "Min salary": 26880.0,
+        "Max salary": 33600.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "SQL",
+            "AWS",
+            "Git",
+            "Databricks",
+            "Spark",
+            "Scala"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 153
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/codilime-data-engineer-with-python-krakow-374000",
+        "Pozycja": "Data Engineer with Python",
+        "Firma": "CodiLime",
+        "Min salary": 16500.0,
+        "Max salary": 27000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Snowflake",
+            "Postgres",
+            "Apache Spark",
+            "Apache Airflow",
+            "AWS",
+            "Git",
+            "CI/CD"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 154
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/addepto-data-engineer-mid-senior-krakow",
+        "Pozycja": "Data Engineer (Mid/Senior)",
+        "Firma": "Addepto",
+        "Min salary": 18000.0,
+        "Max salary": 28560.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Data Integration",
+            "Spark",
+            "AWS",
+            "SQL",
+            "ETL tools",
+            "Hadoop",
+            "Kafka",
+            "NIFI",
+            "GCP"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 155
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/emagine-polska-senior-data-engineer-python-aws-krakow",
+        "Pozycja": "Senior Data Engineer (Python + AWS)",
+        "Firma": "emagine Polska",
+        "Min salary": 30000.0,
+        "Max salary": 35000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Python",
+            "Amazon AWS",
+            "Spark",
+            "SQL",
+            "CI/CD"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 156
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/accenture-data-transformation-consultant-krakow",
+        "Pozycja": "Data Transformation Consultant",
+        "Firma": "Accenture",
+        "Min salary": 13000.0,
+        "Max salary": 25000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "SQL",
+            "Python",
+            "PySpark",
+            "Apache Spark",
+            "Databricks",
+            "Palantir Foundry",
+            "JIRA",
+            "Confluence",
+            "Git",
+            "Docker"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 157
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/dcv-technologies-senior-data-engineer-big-data-engineer-hybrid-krakow",
+        "Pozycja": "Senior Data Engineer ||  Big Data Engineer",
+        "Firma": "DCV Technologies",
+        "Min salary": 22280.0,
+        "Max salary": 25400.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Hadoop",
+            "Spark",
+            "SDLC",
+            "SQL"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 158
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/dcv-technologies-psl-data-analyst-data-engineer-krakow",
+        "Pozycja": "PSL Data Analyst /  Data Engineer",
+        "Firma": "DCV Technologies",
+        "Min salary": 34650.0,
+        "Max salary": 39000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "AWS",
+            "Snowflake",
+            "Bash",
+            "Docker",
+            "Python",
+            "JIRA",
+            "JavaScript"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 159
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/dcv-technologies-it-lead-data-architect-and-information-architect-krakow",
+        "Pozycja": "IT Lead Data Architect and Information Architect",
+        "Firma": "DCV Technologies",
+        "Min salary": 34650.0,
+        "Max salary": 39000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "rddm platform",
+            "Snowflake",
+            "data vault concepts"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 160
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/dcv-technologies-tableau-data-analyst-krakow",
+        "Pozycja": "Tableau Data Analyst",
+        "Firma": "DCV Technologies",
+        "Min salary": 27300.0,
+        "Max salary": 30400.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Agile",
+            "Tableau",
+            "SQL",
+            "PostreSQL"
+        ],
+        "Category": "Data",
+        "Seniority": "Mid",
+        "Id": 161
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/dcv-technologies-senior-mlops-engineer-krakow",
+        "Pozycja": "Senior MLOps Engineer",
+        "Firma": "DCV Technologies",
+        "Min salary": 33600.0,
+        "Max salary": 37800.0,
+        "Currency": "PLN",
+        "Skills": [
+            "AWS",
+            "Snowflake",
+            "Data modeling",
+            "R",
+            "Kubernetes",
+            "Kuberflow",
+            "AWS Sagemaker"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 162
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/text-sa-junior-mlops-engineer-krakow",
+        "Pozycja": "Junior MLOps Engineer",
+        "Firma": "Text SA",
+        "Min salary": 11000.0,
+        "Max salary": 16000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Linux",
+            "Python",
+            "Docker"
+        ],
+        "Category": "Data",
+        "Seniority": "Junior",
+        "Id": 163
+    },
+    {
+        "Źródło": "justjoin.it",
+        "Link": "https://justjoin.it/offers/kitopi-dwh-architect-data-modelling",
+        "Pozycja": "DWH Architect (Data Modelling)",
+        "Firma": "Kitopi",
+        "Min salary": 20000.0,
+        "Max salary": 25000.0,
+        "Currency": "PLN",
+        "Skills": [
+            "Data Science",
+            "Data Engineering",
+            "Data analysis",
+            "Data Warehousing",
+            "Data Pipelines",
+            "Data modeling",
+            "English",
+            "Polish"
+        ],
+        "Category": "Data",
+        "Seniority": "Senior",
+        "Id": 164
+    }
+]
