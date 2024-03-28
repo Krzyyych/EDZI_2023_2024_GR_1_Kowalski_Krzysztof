@@ -41,7 +41,7 @@ def plot_skills_frequency(skills_df):
 def plot_position_category_statistics(wynikowa):
     bar_width = 0.25
     index = wynikowa.index
-
+    plt.figure(figsize = (14, 10))
     plt.bar(index, wynikowa['min'], bar_width, label='Min')
     plt.bar(index + bar_width, wynikowa['max'], bar_width, label='Max')
     plt.bar(index + (2 * bar_width), wynikowa['mean'], bar_width, label='Mean')
@@ -49,5 +49,5 @@ def plot_position_category_statistics(wynikowa):
     plt.xlabel('Kategoria Pozycji')
     plt.ylabel('Liczba Wystąpień')
     plt.title('Statystyki liczby wystąpień dla każdej kategorii pozycji')
-    plt.xticks(index + bar_width, wynikowa['Kategoria Pozycji'], rotation=90)
+    plt.xticks(index + bar_width, wynikowa['Kategoria Pozycji'], rotation=15)
     plt.legend()
