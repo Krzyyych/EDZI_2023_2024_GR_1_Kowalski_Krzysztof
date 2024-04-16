@@ -1,0 +1,36 @@
+{
+    "Data pomiaru": "2024-04-16 16H",
+    "TEMPERATURA": {
+        "\u015arednia temperatura": 7.79,
+        "Minimalna temperatura": {
+            "Warto\u015b\u0107": 5.2,
+            "Miasto": "Katowice"
+        },
+        "Maksymalna temperatura": {
+            "Warto\u015b\u0107": 11.6,
+            "Miasto": "Wroc\u0142aw"
+        }
+    },
+    "CISNIENIE": {
+        "\u015arednie ci\u015bnienie": 1001.15,
+        "Minimalne ci\u015bnienie": {
+            "Warto\u015b\u0107": 997.2,
+            "Miasto": "Gda\u0144sk"
+        },
+        "Maksymalne ci\u015bnienie": {
+            "Warto\u015b\u0107": 1005.1,
+            "Miasto": "Katowice"
+        }
+    },
+    "SUMA OPADOW": {
+        "\u015arednia suma opad\u00f3w": 4.54,
+        "Minimalna suma opad\u00f3w": {
+            "Warto\u015b\u0107": 0.1,
+            "Miasto": "Wroc\u0142aw"
+        },
+        "Maksymalna suma opad\u00f3w": {
+            "Warto\u015b\u0107": 14.2,
+            "Miasto": "Szczecin"
+        }
+    }
+}
